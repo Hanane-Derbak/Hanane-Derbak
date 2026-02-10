@@ -27,13 +27,22 @@ Git, GitHub, Jupyter Notebook
 
 ## 📌 Featured Projects
 
-🔹 **Nexa Store – Sales Data Analysis**  
-Analysis of sales performance, product categories and customer trends.  
-Data cleaning, KPIs, and dashboard creation to support decision making.
+🔹 **SMS Spam Detection & Dimensionality Reduction**  
+Developed an NLP pipeline to classify SMS messages using both traditional machine learning and deep learning approaches.
+
+**Key Features:** TF-IDF vectorization, Autoencoders for dimensionality reduction (compressing 5000+ features), BERT embeddings.  
+
+**Impact:** Compared Logistic Regression with Transformer-based models to improve accuracy on imbalanced datasets.
+
+---
 
 🔹 **Bank Credit Risk Prediction**  
-Machine learning models to predict whether a client will repay a loan.  
-Includes preprocessing, handling imbalance, model comparison and performance metrics.
+Built machine learning models to predict whether a client will repay a loan.
+
+**Key Features:** Data preprocessing, class imbalance handling with SMOTE, model comparison using AUC-ROC and F1-score.  
+
+**Impact:** Helped identify high-risk applicants and support data-driven financial decisions.
+
 ---
 
 ## 🎓 Education
