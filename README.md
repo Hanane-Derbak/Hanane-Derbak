@@ -1,9 +1,7 @@
 ## Hi there 👋
 # Here is my portfolio
-<!--
-**Hanane-Derbak/Hanane-Derbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Hanane Derbak 👋
+#  I'm Hanane Derbak 👋
 
 PhD in Biological Sciences 🔬 | Data Analyst & Data Science Enthusiast 📊  
 Based in Canada 🇨🇦
@@ -47,5 +45,5 @@ PhD in Biological Sciences – Toxicology, plant extracts, biotechnology & sperm
 ## 📫 Contact
 
 📧derbak90@hotmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: https://linkedin.com/in/derbak-hanane
 
